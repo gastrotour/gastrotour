@@ -66,9 +66,9 @@ include:
 
 # Everything below here should be left alone. Modifications may break fastpages
 future: true
-#theme: minima
+theme: minima
 #remote_theme: "mmistakes/minimal-mistakes@4.18.1"
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-feed
