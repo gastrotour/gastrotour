@@ -79,7 +79,7 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-relative-links
   - jekyll-seo-tag
-  - jekyll-include-cache
+  # - jekyll-include-cache
 
 titles_from_headings:
   enabled:     true
